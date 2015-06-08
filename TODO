@@ -1,0 +1,15 @@
+TODO:
+
+A lot of things to do
+
+Remove hardcoded strings
+Include unit tests
+Use automake/autoconfig tools
+Add full exception handling
+Use templates to provide int or float calculator
+Use readline library to edit input
+....
+
+and of course comment code
+
+Thanks!
