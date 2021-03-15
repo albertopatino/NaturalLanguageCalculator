@@ -87,7 +87,7 @@ Scanner::Scanner(istream &is) {
 }
 
 Token Scanner::scan() {
-	char *p='\0';
+	char *p;
 	Token token;
 	int ch;
 	int value=0;

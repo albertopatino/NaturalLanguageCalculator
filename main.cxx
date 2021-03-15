@@ -37,9 +37,9 @@ const int DIV_BY_ZERO=10;
 string tag(" and ");
 string spaces("     ");
 		
- 	cout << "Calculator:" << endl << "Use (+|plus) (-|minus) (*|times) (/|div) operators" << endl;
- 	cout << "And Numbers as Strings:" << endl;
- 	cout << "Example: ((three hundred and nine) times (one plus nine)) times minus ten plus zero" << endl;
+ 	cout << "Calculator: Use Natural language instead of numbers:" << endl;
+ 	cout << "Use (+|plus) (-|minus) (*|times) (/|div) operators" << endl << endl;
+ 	cout << "Example: ((three hundred and nine) times (one plus nine)) times minus ten plus zero" << endl << endl;
  	cout << "Type \"quit\" to exit" << endl;
 	
 	do{
